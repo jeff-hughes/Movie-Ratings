@@ -22,7 +22,7 @@ output:
 }
 </style>
 
-#### *By [Jeff Hughes](http://www.jeffhughes.ca)*
+#### *By [Jeff Hughes](http://www.jeffhughes.ca) (July 28, 2017)*
 
 I recently came across the [MovieLens database](https://grouplens.org/datasets/movielens/), which has 20+ million ratings of about 27,000 movies. Because I thought that sounded pretty cool, I decided to check out [MovieLens](https://movielens.org/) itself, and it turns out that's pretty cool too! It uses a collaborative filtering (machine learning) method to recommend movies to you based on movies you've already watched and rated.^[They actually have several different algorithms implemented that you can switch between, which is great if you're nerdy like me and want to see how your recommendations change depending on which information is being used.] The nice thing is that it shows you the predicted rating for each movie&mdash;what the algorithm thinks you would rate the movie. So while going through the initial process of rating movies you've seen, you can see it get more and more accurate. I've now rated close to 400 movies and it probably knows me better than my closest friends. It actually told me where I had misplaced my keys last week. I think it might actually use incantations of black magic somewhere in the algorithm.
 
